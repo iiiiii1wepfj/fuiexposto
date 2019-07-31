@@ -10,7 +10,7 @@ Bot para Telegram que checa se determinado e-mail está exposto em algum vazamen
 * O arquivo ***check_domains.php*** faz a checagem dos domínios cadastrados com as breaches do Have I Been Pwned. De preferência, configure um cron job para ele.
 
 ## Agradecimentos
-- [Pedro Pamn](github.com/pedropamn), criador e desenvolvedor do bot original.
+- [Pedro Pamn](https://github.com/pedropamn), criador e desenvolvedor do bot original.
 
 ## Licença
 
